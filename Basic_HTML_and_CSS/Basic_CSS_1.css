@@ -1,0 +1,19 @@
+/* Center-aligns all <p> elements */
+p {
+    text-align: center;  
+}
+
+
+.blue-text h1, .blue-text p {
+    color: blue;  
+}
+
+
+.red-text h2, .red-text p {
+    color: red;  
+}
+
+
+.green-text h3, .green-text p {
+    color: green;  
+}
